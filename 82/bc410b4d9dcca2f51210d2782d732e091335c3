@@ -1,0 +1,20 @@
+calculator.py
+  h_5c68acf5b970e7 1-6
+.github/workflows/danger.yml
+  h_5c68acf5b970e7 1-25
+Gemfile
+  h_5c68acf5b970e7 1-3
+Dangerfile
+  h_5c68acf5b970e7 1-2,4-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "82bc410b4d9dcca2f51210d2782d732e091335c3",
+  "prompts": {},
+  "humans": {
+    "h_5c68acf5b970e7": {
+      "author": "Rena Chia <rena.chia@foodpanda.com>"
+    }
+  }
+}
